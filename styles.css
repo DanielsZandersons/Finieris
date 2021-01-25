@@ -1,0 +1,30 @@
+body
+{
+
+    background-color: black;
+
+}
+#logo_teikums
+{
+     font-size: xx-large;
+    color: blueviolet;
+
+}
+article
+{
+    color: blueviolet;
+}
+#part1
+{
+    display: flex
+
+}
+#centrs
+{
+    text-align: center;
+    width: auto;
+    height: auto;
+    font-size: xx-large;
+    color: blueviolet;
+
+}
