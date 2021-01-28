@@ -1,26 +1,43 @@
 body
 {
 
+  background-color: chocolate;
+    
+}
+article
+{
+
     background-color: black;
+    height: 770px;
+    padding: 75px;
+    border: 15px solid chocolate
+
 
 }
 #logo_teikums
 {
-     font-size: xx-large;
+
+    text-align: center; 
+
+    background-image: url(images/Finieru_logo_Test_2.png);
+    background-repeat: no-repeat;
+    
+    height: 150px;
+
+    background-color: darkgray;
+    
+    display: flex;
+
     color: blueviolet;
 
-}
-article
-{
-    color: blueviolet;
-}
-#part1
-{
-    display: flex
+    font-size: 100px;
+
+    font-weight: bolder
 
 }
 #centrs
 {
+    
     text-align: center;
     width: auto;
     height: auto;
